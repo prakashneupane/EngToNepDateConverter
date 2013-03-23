@@ -16,7 +16,7 @@ or
 var result = DateConversion(25, 9, 2046);
 result is obtained in the form "year/month/date"
 
-You can get them independently by calling:
+You can get them independently by calling: <br>
 getDate()
 getMonth()
 getYear()
